@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Xu",
+    "section": "",
+    "text": "I graduated from the University of Toronto and spent the past three and a half years working in property and casualty (P&C) insurance, where I developed experience working with data and quantitative actuarial models. That experience made me increasingly interested in what lies beyond traditional analytical methods, particularly the ways machine learning and AI can expand how complex problems are modelled and solved.\nI am currently pursuing the Master of Data Science at UBC to deepen my skills in machine learning, AI, agentic programming, and modern data workflows. I am particularly interested in building and validating automated modelling pipelines, integrating AI effectively into analytical workflows, and developing stronger software-engineering practices through my data science training."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I studied at the University of Toronto before beginning my career in property and casualty (P&C) insurance. Over the next three and a half years, I worked with claims data, quantitative models, and analytical workflows used to evaluate risk and support insurance valuation. This experience gave me a strong foundation in quantitative modelling and a better understanding of how analytical results are applied in real-world decisions."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "I studied at the University of Toronto before beginning my career in property and casualty (P&C) insurance. Over the next three and a half years, I worked with claims data, quantitative models, and analytical workflows used to evaluate risk and support insurance valuation. This experience gave me a strong foundation in quantitative modelling and a better understanding of how analytical results are applied in real-world decisions."
+  },
+  {
+    "objectID": "about.html#why-data-science",
+    "href": "about.html#why-data-science",
+    "title": "About Me",
+    "section": "Why Data Science",
+    "text": "Why Data Science\nWorking with data and quantitative models made me increasingly interested in methods beyond the traditional actuarial approaches I had been using. In particular, I became interested in machine learning, AI, and how stronger programming and automation can improve analytical work. I joined UBC’s Master of Data Science program to develop these capabilities more systematically, from statistical and machine-learning methods to programming, data workflows, and collaborative software development."
+  },
+  {
+    "objectID": "about.html#what-i-want-to-build",
+    "href": "about.html#what-i-want-to-build",
+    "title": "About Me",
+    "section": "What I Want to Build",
+    "text": "What I Want to Build\nI am particularly interested in moving beyond simply using AI tools toward building reliable AI-enabled analytical workflows. I want to strengthen my ability to develop and validate modelling pipelines, automate repetitive analytical processes, and apply stronger software-engineering practices through my data science training. Over time, I hope to combine these skills with my industry experience to build tools and models that are technically sound and useful in practice."
+  }
+]

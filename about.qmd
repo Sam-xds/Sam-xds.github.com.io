@@ -8,12 +8,12 @@ title: "About Me"
 
 ## Background
 
-I studied at the University of Toronto before beginning my career in property and casualty (P&C) insurance. Over the next three and a half years, I worked with claims data, quantitative models, and analytical workflows used to evaluate risk and support Insurance valutaion. This experience gave me an appreciation for both the technical side of modelling and the importance of understanding how analytical results are used in real-world decisions.
+I studied at the University of Toronto before beginning my career in property and casualty (P&C) insurance. Over the next three and a half years, I worked with claims data, quantitative models, and analytical workflows used to evaluate risk and support insurance valuation. This experience gave me a strong foundation in quantitative modelling and a better understanding of how analytical results are applied in real-world decisions.
 
 ## Why Data Science
 
-Working with data and models made me increasingly curious about methods beyond the traditional actuarial methods or approaches I had been using. In particular, I became interested in machine learning, AI, and how better programming and automation can change the way analytical work is performed. I joined UBC's Master of Data Science program to develop these capabilities more systematically, from statistical and advanced machine-learning methods to programming, data workflows, and collaborative software development practices.
+Working with data and quantitative models made me increasingly interested in methods beyond the traditional actuarial approaches I had been using. In particular, I became interested in machine learning, AI, and how stronger programming and automation can improve analytical work. I joined UBC’s Master of Data Science program to develop these capabilities more systematically, from statistical and machine-learning methods to programming, data workflows, and collaborative software development.
 
 ## What I Want to Build
 
-I am particularly interested in moving beyond simply using AI tools toward understanding how to build reliable AI-enabled analytical workflows. I want to become better at developing and validating modelling pipelines, automating repetitive analytical processes, and applying stronger software-engineering practices from data science. Over time, I hope to combine these skills with my industry experience to build tools and models that are both technically sound and applicable in practice.
+I am particularly interested in moving beyond simply using AI tools toward building reliable AI-enabled analytical workflows. I want to strengthen my ability to develop and validate modelling pipelines, automate repetitive analytical processes, and apply stronger software-engineering practices through my data science training. Over time, I hope to combine these skills with my industry experience to build tools and models that are technically sound and useful in practice.

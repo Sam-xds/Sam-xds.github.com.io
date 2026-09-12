@@ -4,6 +4,6 @@ title: "Sam Xu"
 
 ![](images/profile.jpg){width=250px}
 
-I graduated from the University of Toronto and spent the past three and a half years working in property and casualty insurance, where I gained experience working with data, actuarial quantitative models. That experience made me increasingly interested in what can be done beyond traditional analytical approaches, particularly through machine learning and AI. 
+I graduated from the University of Toronto and spent the past three and a half years working in property and casualty (P&C) insurance, where I developed experience working with data and quantitative actuarial models. That experience made me increasingly interested in what lies beyond traditional analytical methods, particularly the ways machine learning and AI can expand how complex problems are modelled and solved.
 
-I am now pursuing the Master of Data Science at UBC to strengthen my skills in machine learning, AI, programming, and modern data workflows. I am particularly interested in learning how to build and validate automated modelling pipelines, use AI effectively within analytical workflows, and develop stronger software-engineering practices for data science.
+I am currently pursuing the Master of Data Science at UBC to deepen my skills in machine learning, AI, agentic programming, and modern data workflows. I am particularly interested in building and validating automated modelling pipelines, integrating AI effectively into analytical workflows, and developing stronger software-engineering practices through my data science training.
