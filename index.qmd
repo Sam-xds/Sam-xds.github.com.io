@@ -2,6 +2,8 @@
 title: "Sam Xu"
 ---
 
-This is a Quarto website.
+![](images/profile.jpg){width=250px}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I graduated from the University of Toronto and spent the past three and a half years working in property and casualty insurance, where I gained experience working with data, actuarial quantitative models. That experience made me increasingly interested in what can be done beyond traditional analytical approaches, particularly through machine learning and AI. 
+
+I am now pursuing the Master of Data Science at UBC to strengthen my skills in machine learning, AI, programming, and modern data workflows. I am particularly interested in learning how to build and validate automated modelling pipelines, use AI effectively within analytical workflows, and develop stronger software-engineering practices for data science.
