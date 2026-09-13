@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 10, 2026\n\n\nYour Name\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sam Xu",
     "section": "",
     "text": "I graduated from the University of Toronto and spent the past three and a half years working in property and casualty (P&C) insurance, where I developed experience working with data and quantitative actuarial models. That experience made me increasingly interested in what lies beyond traditional analytical methods, particularly the ways machine learning and AI can expand how complex problems are modelled and solved.\nI am currently pursuing the Master of Data Science at UBC to deepen my skills in machine learning, AI, agentic programming, and modern data workflows. I am particularly interested in building and validating automated modelling pipelines, integrating AI effectively into analytical workflows, and developing stronger software-engineering practices through my data science training."
+  },
+  {
+    "objectID": "posts/first-weeks/index.html",
+    "href": "posts/first-weeks/index.html",
+    "title": "My first weeks in MDS",
+    "section": "",
+    "text": "Orientation day on campus."
   },
   {
     "objectID": "about.html",
